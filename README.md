@@ -1,1 +1,1 @@
-*Hola, bienvenido a mi práctica de Git, espero que te guste*
+*Hola, bienvenido a mi práctica de Git, espero que te guste lo que voy a hacer*
