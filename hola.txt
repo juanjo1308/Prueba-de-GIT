@@ -1,0 +1,11 @@
+Bienvenido a mi página web
+
+Esta es una página de inicio básica con HTML y CSS.
+
+Secciones de la página:
+1. Inicio
+2. Acerca de
+3. Servicios
+4. Contacto
+
+Copyright © 2024 Mi Página Web
